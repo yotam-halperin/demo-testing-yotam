@@ -1,4 +1,8 @@
 this is chapter 1;
 a lot of cool start 
 
+<<<<<<< HEAD
 chipopo , whats wrong?
+=======
+chipopo is not yotam
+>>>>>>> love_of_my_life

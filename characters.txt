@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 my name is yotam 
 I am writing a new document, now I've made change
 
 now I do another change
+=======
+my name is chipopo 
+I am writing a new file, now I've made change
+
+hello my world, 
+develeap fucked me and all the new characters
+>>>>>>> love_of_my_life
