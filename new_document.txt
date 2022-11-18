@@ -1,2 +1,4 @@
 new text file
 now we are merged
+
+new line for diff
